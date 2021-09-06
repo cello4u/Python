@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonAlgorithm", "PythonAlgorithm\PythonAlgorithm.pyproj", "{69196EC8-6FA8-4C2E-AFFE-A082C1F6226B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69196EC8-6FA8-4C2E-AFFE-A082C1F6226B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69196EC8-6FA8-4C2E-AFFE-A082C1F6226B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21341B7B-59C3-47FA-8CDA-0AC39D0DBB59}
+	EndGlobalSection
+EndGlobal
