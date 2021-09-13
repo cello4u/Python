@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>69196ec8-6fa8-4c2e-affe-a082c1f6226b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AverageAlgorithm.py</StartupFile>
+    <StartupFile>MaxAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="AverageAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MaxAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="SumAlgorithm.py">
